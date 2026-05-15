@@ -17,9 +17,9 @@ Based on [this Chinese localization mod](https://www.nexusmods.com/baldursgate3/
 ## Preview
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/5e0c1654-b402-4352-bcd6-646a14e40ecc" width="45%">
-  <img src="https://github.com/user-attachments/assets/b095fcf1-fb61-4266-b952-f3a041c5bf52" width="45%">
-  <img src="https://github.com/user-attachments/assets/7e62b181-eb39-4cb9-9e3d-0bd8a9b58a0f" width="45%">
+  <img src="https://github.com/user-attachments/assets/5e0c1654-b402-4352-bcd6-646a14e40ecc" width="130%">
+  <img src="https://github.com/user-attachments/assets/b095fcf1-fb61-4266-b952-f3a041c5bf52" width="130%">
+  <img src="https://github.com/user-attachments/assets/7e62b181-eb39-4cb9-9e3d-0bd8a9b58a0f" width="50%">
 </p>
 > Note: pinyin may be less readable in books and letters due to the light in-game background.
 
